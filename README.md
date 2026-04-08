@@ -25,4 +25,4 @@ Analyse user behaviour across funnel stages (View → Cart → Purchase)
 - Pandas
   ## 📊 Visualisation
 
-![Funnel Chart](r'C:\Users\lenovo\Downloads\funnel_chart.png')
+![Funnel Chart](images/funnel_chart.png)
